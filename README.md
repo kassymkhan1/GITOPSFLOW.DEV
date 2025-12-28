@@ -2,6 +2,7 @@
 
 ## Goal
 
+
 ## Description
 
 ## Dev Stack
@@ -14,6 +15,10 @@
 
 ## To-Do
 
+  - Home Page
+  - Blog Page
+  - About Page
 ## Features
 
 ## License
+
