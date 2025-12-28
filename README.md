@@ -1,20 +1,19 @@
-# Goal
+# GitOpsFlow
 
-# Description
+## Goal
 
-# Dev Stack
+## Description
 
-# Run command
+## Dev Stack
 
-# Structure of Site
+## Run command
 
-# Categories
+## Structure of Site
 
-# To-Do
+## Categories
 
-# Features
+## To-Do
 
-# License
+## Features
 
-
-
+## License
