@@ -1,12 +1,13 @@
 # GitOpsFlow
 
 ## Goal
-
+ -
 
 ## Description
-
+-
 ## Dev Stack
-
+ - Nextjs
+ - Vercel
 ## Run command
 
 ## Structure of Site
