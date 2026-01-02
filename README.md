@@ -1,7 +1,7 @@
 # GitOpsFlow
 
 ## Goal
- -
+ - Knowledge Blog about Envoy and DevOps technologies 
 
 ## Description
 -
